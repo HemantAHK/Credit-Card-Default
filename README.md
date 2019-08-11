@@ -1,4 +1,4 @@
-![GitHub Logo](/images/Coverpic.jpg)
+<img src="/images/Coverpic.jpg" width="800" height="300">
 # Credit_Card_Default
 A Logestic Regression model to predict  whether the individual will default in their credit card payment.
 
