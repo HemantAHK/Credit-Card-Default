@@ -5,7 +5,7 @@ A Logestic Regression model to predict  whether the individual will default in t
 
 ## Getting Started
 
-This is a simple notebook which runs a Linear Regression Model and save a Pickle file for reuse.
+This is a simple notebook which runs a Logestic Regression Model and save a Pickle file for reuse.
 
 ## Built With
 
