@@ -1,4 +1,5 @@
 <img src="https://www.moneyunder30.com/wp-content/uploads/2018/08/How-many-credit-cards-should-you-have-648x364-c-default.jpg">
+
 # Credit_Card_Default
 A Logestic Regression model to predict  whether the individual will default in their credit card payment.
 
