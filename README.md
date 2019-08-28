@@ -3,14 +3,15 @@
 # Credit_Card_Default
 A Logestic Regression model to predict  whether the individual will default in their credit card payment.
 
-## Getting Started
-
-This is a simple notebook which runs a Logestic Regression Model and save a Pickle file for reuse.
 
 ## Built With
 
 * [Sk-learn](https://scikit-learn.org/stable/documentation.html) - It is A Python Machine Learning Library.
 * [Pickle](https://docs.python.org/3/library/pickle.html) - Python pickle module is used for serializing and de-serializing a Python object structure.
+
+## Getting Started
+
+This is a simple notebook which runs a Logestic Regression Model and save a Pickle file for reuse.
 
 ## Additional Content
 
